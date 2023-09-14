@@ -1,0 +1,37 @@
+*{
+    background-color: rgb(189, 240, 253);
+}
+
+a:link {
+    color: midnightblue;
+  }
+  
+  a:visited {   
+    color: rgb(120, 129, 41);
+  }
+  
+  a:hover {
+    color: orange;
+  }
+  
+  a:active {
+    color: darkcyan;
+  }
+  
+  .button {
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(103, 103, 185);
+    color: #fff;
+    text-align: center;
+    font-size: 28px;
+  }
+  
+  .button:hover {
+    background-color: orange;
+  }
+  
+  .button:active {
+    background-color: #3e8e3e;
+    box-shadow: 0 5px #666;
+  }
